@@ -1,0 +1,11 @@
+chem formula,DOI,Pb_mmol,Yb_mmol,Yb/Pb,ligands,OlAm_mL,OlAc_mL,OlAm/OlAc,temperature_°C,time_sec,solvent,synthesis type,precursor A,precursor B,precursor La,precursor X,"Abs, nm","Vis PL, nm","NIR PL, nm","Vis QY, %",NIR QY_%,size_nm
+CsPbCl3:Yb,10.1039/c8tc03957g,0.123,0.376,3.056910569,OlAm/OA,2,2,1,260,5,toluene,HI,Cs,Pb,Yb,Cl,395,410,986,7.7,120.1,10
+CsPbCl3:Yb,10.1021/acs.nanolett.8b05104,0.2,0.08,0.4,OlAm/OA,0.5,1,0.5,240,1,hexane,HI,Cs,Pb,Yb,Cl,375,410,979,,114,14.1
+CsPbCl3:Yb,10.1021/acs.nanolett.8b01066,0.2,0.16,0.8,OlAm/OA,0.5,1,0.5,240,1,hexane,HI,Cs,Pb,Yb,Cl,400,410,990,0.7,170,16
+CsPbCl3:Yb,10.1021/acs.nanolett.7b04575,0.376,0.188,0.5,OlAm/OA,1,1,1,240,30,hexane,HI,Cs,Pb,Yb,Cl,,400,982,,142.7,6.3
+CsPbCl3:Mn(2.17)/Yb,10.1002/advs.202001317,0.2,0.02,0.1,OlAm/OA,1,0.5,2,200,10,toluene,HI,Cs,Pb,Yb,Cl,390,405,,1.2,32.5,7.8
+CsPbCl3:Mn(1.45)/Yb,10.1002/advs.202001317,0.2,0.04,0.2,OlAm/OA,1,0.5,2,200,10,toluene,HI,Cs,Pb,Yb,Cl,390,405,,0.9,64.6,7.5
+CsPbCl3:Mn(1.3)/Yb,10.1002/advs.202001317,0.2,0.06,0.3,OlAm/OA,1,0.5,2,200,10,toluene,HI,Cs,Pb,Yb,Cl,380,405,,0.5,103.3,7.2
+CsPbCl3:Mn(1.14)/Yb,10.1002/advs.202001317,0.2,0.08,0.4,OlAm/OA,1,0.5,2,200,10,toluene,HI,Cs,Pb,Yb,Cl,380,405,,0.4,66.3,6.8
+CsPbCl3:Yb,10.1021/acs.jpcc.9b01296,0.4,0.32,0.8,OlAm/OA,1,2,0.5,240,1,hexane,HI,Cs,Pb,Yb,Cl,,410,980,,146,11
+CsPbCl3:Yb,10.1021/acsami.1c09421,0.2,0.09,0.45,OlAm/OA,1,3,0.333,240,1,hexane,HI,Cs,Pb,Yb,Cl,410,412,976,,110,
